@@ -5,8 +5,8 @@ msgstr "The city looks so pretty"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgctxt "01"
-msgid ""
-msgstr "A screenshot showing amp-sidebar."
+msgid "A screenshot showing amp-sidebar."
+msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
