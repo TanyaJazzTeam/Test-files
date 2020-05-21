@@ -2,7 +2,7 @@
 Text: text
 Hello: Hi
 ---
-
+[![gitlocalized ](https://gitlocalize.com/repo/4578/whole_project/badge.svg)](https://gitlocalize.com/repo/4578/whole_project?utm_source=badge)
 
 # ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
 
